@@ -198,8 +198,3 @@ Model çıkarım verilerini, çıktılarını ve denetim takibi için gerekli me
 
 ---
 
-## 🎯 İşe Alım Yöneticileri İçin Önemli Mühendislik Vurguları
-
-1. **Uçtan Uca (End-to-End) Kapsam:** Sadece model eğitmenin ötesine geçerek; veri tabanı durum koruması ve ağ API mimarileri gibi canlı sistem bileşenlerini yönetme yeteneğini gösterir.
-2. **Gelişmiş Özellik Tasarımı:** Denetimsiz (unsupervised) kümeleme etiketlerini, denetimli (supervised) bir sınıflandırma modeline girdi olarak besler. Bu süreç, modern fintech mühendislik pratiklerini simüle eder.
-3. **Kurumsal Kod Tasarımı:** Altyapı betiklerini, matematiksel hesaplama dosyalarını ve API yönle
