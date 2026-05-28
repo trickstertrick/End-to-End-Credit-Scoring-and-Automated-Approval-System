@@ -106,13 +106,6 @@ Logs inference data, structural model outputs, and metadata for audit trails.
 
 ---
 
-## 🎯 Key Engineering Highlights for Hiring Managers
-
-1. **Uchtan Uca (End-to-End) Scope:** Demonstrates capacity to handle production components beyond raw modeling, natively tackling database state preservation and network API architectures.
-2. **Advanced Feature Pipeline:** Pipelines unsupervised cluster assignments straight into a supervised classification model, mimicking state-of-the-art fintech engineering practices.
-3. **Enterprise Code Design:** Written utilizing layered software patterns, cleanly segregat
-
-4. TR//
 5. ---
 
 ## 🛠️ Teknolojik Yığın (Tech Stack)
